@@ -20,3 +20,9 @@ const changeColor = () => {
 const stopAutomatic = () => {
     clearInterval(intervalId);
 }
+
+const turnOn = {
+
+}
+
+buttons.addEventListener('click', trafficLight);
